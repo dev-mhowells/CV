@@ -1,12 +1,16 @@
-## Your Name
+## Michael Howells
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I love working on things which are meaningful and provide real value to end users. My personal projects have focused on  applying my experience as an ex-language teacher to the e-learning space by developing web apps which make online learning more interactive.  I also hold an MSc in psychology, where my research focused on the intersection of psychology and
+technology, and where my love of programming began.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| **English Deck**            | An interactive e-learning application. Consists
+of a number of functional elements including flashcards, quizzes, user authentication, and
+comment sections. I also built a custom content management system in order to update and edit
+all of the content on the site, including both the articles and interactive components.  | CSS, JavaScript, React.js, Firebase |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Work Experience
