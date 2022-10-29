@@ -7,10 +7,7 @@ technology, and where my love of programming began.
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **English Deck**            | An interactive e-learning application. Consists
-of a number of functional elements including flashcards, quizzes, user authentication, and
-comment sections. I also built a custom content management system in order to update and edit
-all of the content on the site, including both the articles and interactive components.  | CSS, JavaScript, React.js, Firebase |
+| **English Deck**            | An interactive e-learning application. Consists of a number of functional elements including flashcards, quizzes, user authentication, and comment sections. I also built a custom content management system in order to update and edit all of the content on the site, including both the articles and interactive components.  | CSS, JavaScript, React.js, Firebase |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Work Experience
