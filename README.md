@@ -12,15 +12,13 @@ technology, and where my love of programming began.
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Labs English Academy** (January 2017 to June 2020)  
+_English Language Teacher_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
+- Taught business, academic and conversational English to adults in both English and Korean.
+- Delivered interactive classes with students from a wide range of educational, social, and cultural backgrounds.
+- Regularly met with students and staff members to report on learning goals and to ensure they were being met.
+- Worked independently and with other teachers to source and adapt learning materials which could be tailored to specific use cases and individual students.
 
 ## Skills
 
@@ -37,11 +35,10 @@ Consider skills relevent to software development. Then consider your best skills
 -What was the result?
 
 
-#### This Skill
+#### I pull out all the stops to get things done
 
-- Experience
-- Achievements
-- Evidence (STAR)
+- While an important part of project planning is predicting potential problems, unexpected roadblocks often occur. I enjoy problem solving and coming up with solutions in the heat of the moment to ensure deadlines can be met.
+- While conducting research as part of my Master’s degree, we were having problems with participant engagement with the study. Participants completing the study online were often getting most of the way through the task but dropping out before reaching the end. After checking the data to find out where the dropout point was, it became clear that the task was not streamlined well enough and that it was likely that participants were simply unaware that there was more to the study. I adjusted the task instructions to indicate more clearly exactly what the stages of the study were, and I contacted a member of the IT team to see if it was possible for participants to be automatically redirected to the next step of the study rather than physically having to click through to it themselves. After making these changes, the dropout rate reduced to almost zero and we were back on track to acquire enough data for the study to proceed.
 
 #### Another Skill
 
@@ -63,16 +60,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Derby (Graduated August 2021)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+- MSc Psychology (Distinction)
+- Research focused on the relationship between psychology and technology. Specifically, the relationship between behavioural addiction, decision making, and online spending.
+- Conceptualised and completed ambitious research projects both independently and as part of a team.
+- Wrote up highly detailed reports written for a technical audience on complex topics in neuropsychology and cognitive psychology.
+- Knowledgeable and competent in areas related to statistical analysis and specialist statistical software.
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+ I like chess, martial arts, and Japanese literature! I also speak Korean at a conversational level.
