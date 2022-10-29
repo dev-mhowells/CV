@@ -7,8 +7,8 @@ technology, and where my love of programming began.
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **English Deck**            | An interactive e-learning application. Consists of a number of functional elements including flashcards, quizzes, user authentication, and comment sections. I also built a custom content management system in order to update and edit all of the content on the site, including both the articles and interactive components.  | CSS, JavaScript, React.js, Firebase |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **English Deck**            | An interactive e-learning application. Consists of a number of functional elements including flashcards, quizzes, user authentication, and comment sections. I also built a custom content management system in order to update and edit all of the content on the site, including both the articles and interactive components.  | HTML, CSS, JavaScript, React.js, Firebase |
+| **Language correction messenger** |  Allows language learners to converse with teachers via a messenger designed to enable seamless integration of corrections and learning opportunities. Teachers are able to correct messages sent by students. Students can request additional information on vocabulary used in messages sent by teachers, including audio for pronunciation. | HTML, Tailwind CSS, JavaScript, React.js, Firebase |
 
 ## Work Experience
 
