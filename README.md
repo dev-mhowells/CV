@@ -28,7 +28,7 @@ _English Language Teacher_
 
 #### I enjoy learning about technical things
 
-- As part of my master’s degree I was required to write up a comprehensive summary of an area of neuropsychology which I was not knowledgeable about. The report was to be aimed at experts in the field, and I was required to adhere to a very specific outline in accordance with standards set out by the British Psychological Society. 
+- I was once required to write up a comprehensive summary of an area of neuropsychology which I was not knowledgeable about. The report was to be aimed at experts in the field, and I was required to adhere to a very specific outline in accordance with standards set out by the British Psychological Society. 
 - To ensure I was able to produce something of exceptional standard, I began working on the assignment early, reading all of the seminal papers published in the area and keeping careful notes and memorising definitions of technical jargon. I broke the assignment up into manageable sections and branched out into more specific and up to date research to ensure that the work was detailed and current in its use of empirical evidence and points of contention within the field. It was quite daunting to be expected to deliver work aimed at experts in such a technical field, however, I remained consistent in my efforts and was confident that by dedicating enough time to the assignment, I would be able to complete it to a high standard. Ultimately, my efforts to meet the task requirements resulted in achieving a grade within the highest possible tier. 
 
 ## Education
