@@ -21,36 +21,20 @@ _English Language Teacher_
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
 #### I pull out all the stops to get things done
 
 - While an important part of project planning is predicting potential problems, unexpected roadblocks often occur. I enjoy problem solving and coming up with solutions in the heat of the moment to ensure deadlines can be met.
 - While conducting research as part of my Master’s degree, we were having problems with participant engagement with the study. Participants completing the study online were often getting most of the way through the task but dropping out before reaching the end. After checking the data to find out where the dropout point was, it became clear that the task was not streamlined well enough and that it was likely that participants were simply unaware that there was more to the study. I adjusted the task instructions to indicate more clearly exactly what the stages of the study were, and I contacted a member of the IT team to see if it was possible for participants to be automatically redirected to the next step of the study rather than physically having to click through to it themselves. After making these changes, the dropout rate reduced to almost zero and we were back on track to acquire enough data for the study to proceed.
 
-#### Another Skill
+#### I enjoy learning about technical things
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- As part of my master’s degree I was required to write up a comprehensive summary of an area of neuropsychology which I was not knowledgeable about. The report was to be aimed at experts in the field, and I was required to adhere to a very specific outline in accordance with standards set out by the British Psychological Society. 
+- To ensure I was able to produce something of exceptional standard, I began working on the assignment early, reading all of the seminal papers published in the area and keeping careful notes and memorising definitions of technical jargon. I broke the assignment up into manageable sections and branched out into more specific and up to date research to ensure that the work was detailed and current in its use of empirical evidence and points of contention within the field. It was quite daunting to be expected to deliver work aimed at experts in such a technical field, however, I remained consistent in my efforts and was confident that by dedicating enough time to the assignment, I would be able to complete it to a high standard. Ultimately, my efforts to meet the task requirements resulted in achieving a grade within the highest possible tier. 
 
 ## Education
 
 #### Makers Academy (start_date to end_date)
+TO BE COMPLETED
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
