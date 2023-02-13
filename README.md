@@ -1,4 +1,4 @@
-## Michael Howells
+## Michael Howells - [Portfolio](https://michaeldhowells.netlify.app/)
 
 I love working on things which are meaningful and provide real value to end users. My personal projects have focused on applying my previous experience as a language teacher to the e-learning space by developing web apps which make online learning more interactive.  I also hold an MSc in psychology, where my research focused on the intersection of psychology and technology, and where my love of programming began.
 
